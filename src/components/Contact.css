@@ -46,16 +46,19 @@
     font-size: 1rem;
     color: #333;
     margin-bottom: 5px;
+    margin-left: 10%;
 }
 
 .form-group input,
 .form-group textarea {
-    width: 100%;
+    width: 80%;
     padding: 10px;
     font-size: 1rem;
     border: 1px solid #ddd;
     border-radius: 5px;
     outline: none;
+    margin-left: 10%;
+
 }
 
 .form-group textarea {
